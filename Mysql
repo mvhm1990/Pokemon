@@ -1,0 +1,5 @@
+Utilize MySQL porque es mas sencillo de instalar que SQL Server, el SQL es mucho mas pesado
+Utilize promesas para que no cargue primero el HTML calato
+El código extrae y muestra información relevante (ID, nombre, habilidad y tipo) de los Pokémon. La "limpieza de datos" se realiza al seleccionar solo la primera habilidad y el primer tipo de cada Pokémon.
+Lo subi al Ngrok https://1337-2800-200-ec50-6e-4558-292b-b169-d64b.ngrok-free.app/
+Cualquier consulta me dicen
